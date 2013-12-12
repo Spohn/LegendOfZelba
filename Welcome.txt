@@ -1,0 +1,27 @@
+Wink! Wake up Wink! Our dungeon is being overrun with MONSTERS!
+You must venture into the dungeon and collect all of the magical
+keys in order otherwise they won't fit into your invetory properly!
+Once you do that, Please kill these evil monsters for us. If you fail
+our princess Zelba will surely be captured and killed by the monsters.
+
+GOOD LUCK WINK!
+
+
+Directions: How to play
+	
+	- Your Character is repesented by the 'x'.
+
+	- You can try, but you can't walk through walls ('-' and '|').
+          You may however walk through doors ('@').
+
+	- Enemies are represented by 'E'. And keys are 'K'.
+
+	- Enter in the corresponding key to move from the menu.
+
+	- Your goal is to slay all the monsters by moving into them
+	  and engaging them in combat.
+
+	- Your other goal is to collect all keys spread around the map
+          in a specific though unspecified order.
+
+	- To quit at any time just press 'g' (like a scared little girl).
